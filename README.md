@@ -1,2 +1,13 @@
 - Hi, I’m @AncientOfCoders
 - I've been coding professionally (and for fun) in various languages since the 1970's
+- My language experience has included
+- - BASIC
+- - FORTRAN
+- - Pascal
+- - C
+- - C++
+- - Java
+- - JavaScript
+- - PERL
+- - PHP
+- - Python
