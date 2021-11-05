@@ -1,0 +1,2 @@
+- Hi, I’m @AncientOfCoders
+- I've been coding professionally (and for fun) in various languages since the 1970's
